@@ -11,4 +11,4 @@ My idea for this project is to create somewhat of an e-commerce website. I would
 - User can add shoes to cart and get estimated price (Without actually being able to buy, obviously.)
 
 ## Structure
-![Alt text](src/assets/images/(imagename.here)?raw=true "Title")
+![Alt text](src/assets/images/(structure.png)?raw=true "Title")
