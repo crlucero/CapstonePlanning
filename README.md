@@ -10,5 +10,8 @@ My idea for this project is to create somewhat of an e-commerce website. I would
 - User can login and add desired shoes to a 'want' list
 - User can add shoes to cart and get estimated price (Without actually being able to buy, obviously.)
 
+#### Link to Project Repo
+https://github.com/crlucero/React-Capstone.git
+
 ## Structure
-![Alt text](src/assets/images/(structure.png)?raw=true "Title")
+![Alt text](src/assets/images/(structure.jpg)?raw=true "Title")
